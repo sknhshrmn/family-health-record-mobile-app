@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.sakinahshahriman.familyhealthrecordmobileapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8f02189f-d58f-4c36-8a80-1dc4cfbad7b4"
+      }
+    },
+    "owner": "sakinahshahriman"
   }
 }
